@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x3BF2402b63014D5858B96ab41a2A9d97327B16E7",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3bf2402b63014d5858b96ab41a2a9d97327b16e7",
+  "CONTRACT_ADDRESS": "0xB5A1b8FF19BD3cd5B2671606f7D5Ac64A85b7a37",
+  "SCAN_LINK": "https://etherscan.io/address/0xb5a1b8ff19bd3cd5b2671606f7d5ac64a85b7a37",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ether",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "CMST4",
-  "SYMBOL": "CMST4",
+  "NFT_NAME": "Crypto Miners Syndicate",
+  "SYMBOL": "CMS",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 25000000000000000,
   "DISPLAY_COST": 0.025,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cmst4",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptominerssyndicate",
   "SHOW_BACKGROUND": true
 }
