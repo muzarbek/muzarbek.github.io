@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xB5A1b8FF19BD3cd5B2671606f7D5Ac64A85b7a37",
-  "SCAN_LINK": "https://etherscan.io/address/0xb5a1b8ff19bd3cd5b2671606f7d5ac64a85b7a37",
+  "CONTRACT_ADDRESS": "0x73da44670173c5db4d48de07d6f8e9405fa8a531",
+  "SCAN_LINK": "https://etherscan.io/address/0x73da44670173c5db4d48de07d6f8e9405fa8a531",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ether",
     "ID": 1
   },
-  "NFT_NAME": "Crypto Miners Syndicate",
-  "SYMBOL": "CMS",
+  "NFT_NAME": "Help Ukraine",
+  "SYMBOL": "HelpUA",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "WEI_COST": 35000000000000000,
+  "DISPLAY_COST": 0.035,
   "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptominerssyndicate",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/help-ukraine-cms",
   "SHOW_BACKGROUND": true
 }
