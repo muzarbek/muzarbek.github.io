@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x73da44670173c5db4d48de07d6f8e9405fa8a531",
-  "SCAN_LINK": "https://etherscan.io/address/0x73da44670173c5db4d48de07d6f8e9405fa8a531",
+  "CONTRACT_ADDRESS": "0x0a175f90fed3a9792d90cb83e91c384a84689dd5",
+  "SCAN_LINK": "https://etherscan.io/address/0x0a175f90fed3a9792d90cb83e91c384a84689dd5",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ether",
     "ID": 1
   },
-  "NFT_NAME": "Help Ukraine",
-  "SYMBOL": "HelpUA",
+  "NFT_NAME": "DAO Hydro Power Plant",
+  "SYMBOL": "HPP",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 35000000000000000,
-  "DISPLAY_COST": 0.035,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.07,
   "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/help-ukraine-cms",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hydro-power-plant",
   "SHOW_BACKGROUND": true
 }
