@@ -1,18 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x0a175f90fed3a9792d90cb83e91c384a84689dd5",
-  "SCAN_LINK": "https://etherscan.io/address/0x0a175f90fed3a9792d90cb83e91c384a84689dd5",
+  "CONTRACT_ADDRESS": "0xEe6f2D6c2D2d6c840921D09990Fe04605Af2d876",
+  "SCAN_LINK": "https://etherscan.io/address/0xEe6f2D6c2D2d6c840921D09990Fe04605Af2d876",
+  "HOMEPAGE": "https://www.powerballs.world",
   "NETWORK": {
     "NAME": "Ethereum",
-    "SYMBOL": "ether",
+    "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "DAO Hydro Power Plant",
-  "SYMBOL": "HPP",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 80000000000000000,
-  "DISPLAY_COST": 0.08,
+  "NFT_NAME": "Powerballs Worldwide Lottery",
+  "SYMBOL": "PB",
+  "MAX_SUPPLY": 1000000000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/hydro-power-plant",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/powerballs-worldwide-lottery",
   "SHOW_BACKGROUND": true
 }
